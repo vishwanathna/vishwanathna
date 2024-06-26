@@ -1,7 +1,6 @@
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/Sanketarali/Sanketarali/assets/110754364/544dc919-dbd5-4b0c-9e61-3d44cae5e6e7)
 
 # 💫 About Me:
-🌱 I’m currently learning Django<br>📫 How to reach me sanketsarali@gmail.com<br><br>
+🌱 I’m currently learning Python Full Stackbr>📫 How to reach me vishwanathn886@gmail.com<br><br>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
@@ -11,8 +10,7 @@
  ## 🌐 Socials:
 #### Connect with me
 [![Instagram](https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https:/instagram.com/sanket_arali)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketarali)
-[![X](https://img.shields.io/badge/twitter-purple?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sanketarali)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwanatha6)
 
 
 # 💻 Tech Stack:
