@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🌱 I’m currently learning Python Full Stackbr>📫 How to reach me vishwanathn886@gmail.com<br><br>
+🌱 I’m currently learning Python Full Stack <br>📫 How to reach me vishwanathn886@gmail.com<br><br>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
